@@ -1,0 +1,16 @@
+.app{
+    background-color: rgb(8, 84, 68);
+    color: rgb(234, 230, 230);
+}
+.container__resident{
+     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5em;
+}
+.h1{
+    text-align: center;
+    padding: 10px;
+    color:cyan;
+
+}
